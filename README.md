@@ -13,7 +13,7 @@
 » Any additional acknowledgements
 ```
 
-## details
+## markdown
 ```
 within markdown
 ```
