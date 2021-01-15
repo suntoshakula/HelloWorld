@@ -1,7 +1,6 @@
 # HelloWorld
-this is my first repo
-
 ```
+» this is my first repo
 » Project title and description
 » Prerequisites for getting the project running on your local machine
 » Instructions on installing the project (and any dependencies)
@@ -12,5 +11,10 @@ this is my first repo
 » The main authors or maintainers of the project
 » A link to the license
 » Any additional acknowledgements
+```
+
+## markdown
+```
+within markdown
 ```
 
