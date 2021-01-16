@@ -39,7 +39,3 @@ desktop new details
 d: not commited
 ```
 
-```
-undc: undoing changes not staged
-```
-
