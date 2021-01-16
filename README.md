@@ -31,3 +31,11 @@ this should close the issue finally
 this should close the issue finally it happens with #
 ```
 
+```
+desktop new details
+```
+
+```
+d: not commited
+```
+
